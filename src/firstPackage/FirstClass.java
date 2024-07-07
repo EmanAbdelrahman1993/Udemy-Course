@@ -1,0 +1,15 @@
+package firstPackage;
+
+public class FirstClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello Java");
+		
+	}
+	
+	public void printStatment(String statement) {
+		System.out.println("This statement from method in First Class: "+statement);
+	}
+
+}
